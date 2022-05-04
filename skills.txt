@@ -1,0 +1,6 @@
+На данний момент изучены такие программы, как:
+- Git Bush
+- Postman
+- Soap UA
+- Visual Studio Code
+
