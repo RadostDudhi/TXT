@@ -10,7 +10,7 @@ Description:
     Expected result:The menu bar stay open.
 Reporter: Anastasiia Rudakova
 Severity: minor
-Priority:
+Priority: low
 Environment:
       Android 10; Redmi Note 7 Build/QKQ1.190910.002
       Google Chrome 100.0.4896.79
